@@ -1,0 +1,2 @@
+# euler-project
+Javascript math
